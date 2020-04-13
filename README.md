@@ -1,5 +1,5 @@
 # DOTLAO                                            
-<img src="/img/laoStandardLarge.png" alt="logo"
+<img src="/img/logoStandaloneInBlack.png" alt="logo"
         title="Dotlao logo" width="150" height="150" />
 ## Mobile Application Development
 
