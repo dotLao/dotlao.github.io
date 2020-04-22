@@ -19,22 +19,22 @@ ___
 Beacon is a mobile application focused on effectively de-escalating users who are at varying levels of suicidal ideation. This app will act as a hub for connecting users to our escalation system, including:
 
 * A **Responsive Artificial Intelligence** responsible for :
-        * Intake information
-        * De-escalation
-        * Escalation Tier Recommendation
-        * Escalation Speed Recommendation
-        * Ability to Alert EMS
+    * Intake information
+    * De-escalation
+    * Escalation Tier Recommendation
+    * Escalation Speed Recommendation
+    * Ability to Alert EMS
         
 * A **Volunteer Network** responsible for :
-        * De-escalation
-        * Decision to push to *Practioner Network*
-        * Decision to alert EMS
-        * *Next Steps* modal for follow-up services
+    * De-escalation
+    * Decision to push to *Practioner Network*
+    * Decision to alert EMS
+    * *Next Steps* modal for follow-up services
         
 * A **Practioner Network** responsible for :
-        * De-escalation
-        * Decision to alert EMS
-        * *Next Steps* modal for follow-up services
+    * De-escalation
+    * Decision to alert EMS
+    * *Next Steps* modal for follow-up services
 
 The flow of the escalation system will be : 
 **Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
