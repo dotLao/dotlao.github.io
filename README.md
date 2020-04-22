@@ -4,7 +4,7 @@
 ## Mobile Application Development
 
 ### What We Do
-If you want to know a little more, head on over to our [Instagram](https://www.instagram.com/dotlao/)
+If you want to know a little more, check out our [Instagram](https://www.instagram.com/dotlao/)
 
 ___ 
 ***Here are a some of our current projects under development :***
@@ -24,19 +24,20 @@ Beacon is a mobile application focused on effectively de-escalating users who ar
         * Escalation Tier Recommendation
         * Escalation Speed Recommendation
         * Ability to Alert EMS
+        
 * A **Volunteer Network** responsible for :
         * De-escalation
         * Decision to push to *Practioner Network*
         * Decision to alert EMS
         * *Next Steps* modal for follow-up services
+        
 * A **Practioner Network** responsible for :
         * De-escalation
         * Decision to alert EMS
         * *Next Steps* modal for follow-up services
 
 The flow of the escalation system will be : 
-**Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS 
-
+**Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
 *EMS can be alerted at any point along the way*
 
 
