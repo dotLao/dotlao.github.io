@@ -47,13 +47,12 @@ The flow of the escalation system will be :
 
 Application for designing interior spaces, including:
 * Ergonomic and Movement Analysis
-        * Alerts for *tight spaces*
-        * Can grade for *Feng Shui*
+    * Alerts for *tight spaces*
+    * Can grade for *Feng Shui*
 * Drag-and-drop items for designing personal and corporate spaces
-        * Exclusivity deals with large companies
-        * Expedite ordering process
-                * Ability to add to cart with partner company
-                * Ability to check out cart
+    * Exclusivity deals with large companies
+    * Ability to add (partner) company items to cart
+    * Ability to check-out through app
 
 
 #### Nunu
