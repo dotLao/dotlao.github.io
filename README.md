@@ -38,6 +38,7 @@ Beacon is a mobile application focused on effectively de-escalating users who ar
 
 The flow of the escalation system will be : 
 **Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
+
 *EMS can be alerted at any point along the way*
 
 ---
@@ -60,5 +61,3 @@ Application for designing interior spaces, including:
 #### Nunu
 ###### Home theater movie-streaming application   
 [Nunu Repository](https://github.com/dotlao/nunu)
-
-
