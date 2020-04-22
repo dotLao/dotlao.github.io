@@ -40,6 +40,7 @@ The flow of the escalation system will be :
 **Initial AI Landing -> Volunteer Network -> Professional Practitioner -> EMS**
 *EMS can be alerted at any point along the way*
 
+---
 
 #### Interior
 ###### Interior Design application
@@ -54,6 +55,7 @@ Application for designing interior spaces, including:
     * Ability to add (partner) company items to cart
     * Ability to check-out through app
 
+---
 
 #### Nunu
 ###### Home theater movie-streaming application   
