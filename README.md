@@ -4,10 +4,10 @@
 ## Mobile Application Development
 
 ### What We Do
-If you want to know a little more, check out our [Instagram](https://www.instagram.com/dotlao/)
+If you want to check out some freeze-frames of our process, head over to our [Instagram](https://www.instagram.com/dotlao/)
 
 ___ 
-***Here are a some of our current projects under development :***
+***Here are a few of our current projects under development :***
 ___
 
 ### Applications
