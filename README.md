@@ -47,14 +47,21 @@ The flow of the escalation system will be :
 ###### Interior Design application
 [Interior Repository](https://github.com/dotlao/interior)
 
-Application for designing interior spaces, including:
-* Ergonomic and Movement Analysis
+Application for designing interior spaces, and turning that digital plan into a reality.
+
+###### Some features of this app include:
+* **Room Capture**
+   * User turns on camera and gets a 360 degree image of room to be designed
+* **Ergonomic and Movement Analysis**
     * Alerts for *tight spaces*
-    * Can grade for *Feng Shui*
-* Drag-and-drop items for designing personal and corporate spaces
-    * Exclusivity deals with large companies
+    * **Feng Shui Analysis**
+* **Live Catalogues**
+    * Drag-and-drop items for designing personal and corporate spaces
+    * Exclusivity deals with home decor providers
     * Ability to add (partner) company items to cart
     * Ability to check-out through app
+    * Can pick up in store / schedule shipping through app
+* **Ability to save plans**
 
 ---
 
